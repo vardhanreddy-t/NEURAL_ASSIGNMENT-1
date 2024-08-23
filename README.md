@@ -4,6 +4,8 @@ Neural Network Assignment ICP_1 programs in this assignment , the below concepts
 * counting
 * input and output file read and write concept
 * lists and neseseted comprehensions
+
+  
   Name: Priya Vardhan Reddy Tamma
   id:700764913
   
